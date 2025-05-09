@@ -1,2 +1,2 @@
 # composti-plan
-Provide resources Washington State businesses to plan organic waste disposal
+Composti-plan is a platform to facilitate decentralized composition is communities across Washington State. 
